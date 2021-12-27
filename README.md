@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kayaoo
+- 👀 I’m interested in china.
+- 🌱 I’m currently learning fpga and mixed-signal. 
+- 💞️ I’m looking to collaborate on IC validation. 
+- 📫 you can reach me by kayaoo@hotmail.com
